@@ -20,10 +20,7 @@ export default function Home() {
     'maykbrito',
     'omariosouto',
     'rafaballerini',
-    'juunegreiros',
-    'peas', 
-    'marcobrunodev',
-    'felipefialho'
+    'juunegreiros'      
   ]
 
   return (
